@@ -1,3 +1,5 @@
+Contributers: Liza, Laura, Alson, Zachary
+
 # Open Energy Dashboard #
 
 ![Github Build](https://github.com/OpenEnergyDashboard/OED/workflows/Build/badge.svg)
