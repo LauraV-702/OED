@@ -1,5 +1,7 @@
 # Open Energy Dashboard #
 
+Team Craft C5 from SDEV 301
+
 ![Github Build](https://github.com/OpenEnergyDashboard/OED/workflows/Build/badge.svg)
 
 Open Energy Dashboard is a user-friendly way to display energy information from smart energy meters or uploaded via CSV files. It is available to anyone and is optimized for non-technical users with a simple interface that provides access to your organization's energy data. To learn more, see [our website](https://openenergydashboard.org/).
