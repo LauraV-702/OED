@@ -25,7 +25,7 @@ while test $# -gt 0; do
 			shift
 			production=yes
 			;;
-		--nostart)
+		--nostart)sudo docker compose up
 			shift
 			dostart=no
 			;;
